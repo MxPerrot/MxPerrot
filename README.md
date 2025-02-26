@@ -30,7 +30,7 @@
 
   <h3>WEB</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,d3"/>
   </a>
 
   <h3>BACK-END</h3>
@@ -41,7 +41,7 @@
 
   <h3>DATA</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,elasticsearch"/>
   </a>
 
   <h3>FRAMEWORKS</h3>
@@ -52,17 +52,17 @@
 
   <h3>OS</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows"/>
+    <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,windows"/>
   </a>
 
   <h3>SYSTEM</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker"/>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,bash"/>
   </a>
 
   <h3>OTHERS</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,vim,"/>
+    <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,vim,godot,notion,blender"/>
   </a>
   
 </div>
