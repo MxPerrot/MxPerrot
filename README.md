@@ -4,8 +4,6 @@
 
   <h2>About me</h2>
 
-  About Me
-
   I'm a student at the [IUT of Lannion](https://iut-lannion.univ-rennes.fr/), France, currently working on my [Bachelor of Computer Science](https://iut-lannion.univ-rennes.fr/informatique).
 
   I specialize in data administration, management, and AI, but I also love working with APIs and web technologies to visualize and manage data. Full-stack projects are especially fun for me, as they bring together different aspects of development into something tangible and interactive.
