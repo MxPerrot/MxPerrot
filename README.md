@@ -19,6 +19,8 @@
   </div>
   <h2>My Skills</h2>
 
+  <div float="left">
+
   <h3>WEB</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php"/>
@@ -29,6 +31,8 @@
     <img src="https://skillicons.dev/icons?i=c,java,python,nodejs"/>
   </a>
 
+  </div>
+  <div float="left">
 
   <h3>DATA</h3>
   <a href="https://skillicons.dev">
@@ -40,6 +44,9 @@
     <img src="https://skillicons.dev/icons?i=laravel,flask,spring,fastapi,vue"/>
   </a>
 
+  </div>
+  <div float="left">
+
   <h3>OS</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows"/>
@@ -49,7 +56,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker"/>
   </a>
-
+  </div>
+  
   <h3>OTHERS</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,vim,"/>
