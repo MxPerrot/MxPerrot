@@ -1,65 +1,58 @@
-<link rel="stylesheet" href="./styles.css">
+<h1 align="center">Hi, I'm Max!</h1>
 
-# Hi, I'm Max
+<div align="center">
 
-<!-- ## About me
+  <h2>About me</h2>
 
-I'm  -->
+  I'm a student at the [IUT of Lannion](https://iut-lannion.univ-rennes.fr/), France.<br>Currently working on my [Bachelor of Computer Science](https://iut-lannion.univ-rennes.fr/informatique)
 
-## My Skills
+  <h2>I'm currently working on</h2>
 
-### WEB
+  <div float="left">
+  <a href="https://github.com/MxPerrot/BigBookSociety">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MxPerrot&repo=BigBookSociety&show_owner=true&theme=transparent">
+  </a>
 
+  <a href="https://github.com/MxPerrot/MxPerrot.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MxPerrot&repo=mxperrot.github.io&show_owner=true&theme=transparent">
+  </a>
+  </div>
+  <h2>My Skills</h2>
+
+  <h3>WEB</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php"/>
   </a>
 
-### BACK-END
-
+  <h3>BACK-END</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java,python,nodejs"/>
   </a>
 
 
-### DATA
-
+  <h3>DATA</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql"/>
   </a>
 
-### FRAMEWORKS
-
+  <h3>FRAMEWORKS</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,flask,spring,fastapi,vue"/>
   </a>
 
-### OS
-
+  <h3>OS</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows"/>
   </a>
 
-### SYSTEM
+  <h3>SYSTEM</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker"/>
   </a>
 
-### OTHERS
+  <h3>OTHERS</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,vim,"/>
   </a>
-<!--
-**MxPerrot/MxPerrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+  
+</div>
