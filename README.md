@@ -62,7 +62,7 @@
 
   <h3>OTHERS</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,vim,godot,notion,blender"/>
+    <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,vim,godot,blender,notion,figma"/>
   </a>
   
 </div>
