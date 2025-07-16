@@ -4,8 +4,7 @@
 
   ## About me
 
-  I'm a full stack developer, I studied at the [IUT of Lannion](https://iut-lannion.univ-rennes.fr/) and graduated with a [Bachelor of Computer Science](https://formations.univ-rennes.fr/mention/bachelor-universitaire-de-technologie-mention-informatique).
-
+  I'm an **Independent Software Developer specializing in Data and AI** who graduated from the [University Institute of Technology in Lannion](https://iut-lannion.univ-rennes.fr/) with a [Bachelor's in Computer Science](https://formations.univ-rennes.fr/mention/bachelor-universitaire-de-technologie-mention-informatique).
   I specialize in data administration, management, and AI, but I also love working with APIs and web technologies to visualize and manage data. Full-stack projects are especially fun for me, as they bring together different aspects of development into something tangible and interactive.
 
   Beyond data, I have a strong interest in physics simulations, whether for video games or pure curiosity. I’ve experimented with designing a 2D planetary system simulator and can’t wait to take it into 3D.
