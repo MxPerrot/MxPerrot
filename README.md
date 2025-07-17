@@ -15,7 +15,7 @@
 
   ## Stats
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MxPerrot&layout=donut-vertical)](https://github.com/MxPerrot/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MxPerrot&layout=donut-vertical&theme=transparent)](https://github.com/MxPerrot/github-readme-stats)
   ![MxPerrot's GitHub stats](https://github-readme-stats.vercel.app/api?username=MxPerrot&show=prs_merged_percentage&hide=issues&theme=transparent)
 
   ## Some of my projects
